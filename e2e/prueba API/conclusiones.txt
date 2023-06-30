@@ -1,0 +1,3 @@
+concluciones sobre las pruebas automatizadas API
+
+pruebas ejecutadas de API de PetStore fueron satisfactorias

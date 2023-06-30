@@ -1,0 +1,4 @@
+concluciones sobre las pruebas automatizadas E2E
+ 
+pruebas ejecutadas E2E de portal product store fueron satisfactorias
+
